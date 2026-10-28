@@ -15,4 +15,4 @@ Java 21 · Spring Boot · Spring Security (JWT, HttpOnly cookies, refresh token 
 
 ## 📫 Contact
 
-[LinkedIn]([https://www.linkedin.com/in/LINKEDIN-ADINI-YAZ](https://www.linkedin.com/in/k%C3%BCbra-eser-612851169/)) · Ankara, Türkiye
+[LinkedIn]([https://www.linkedin.com/in/LINKEDIN-ADINI-YAZ](https://www.linkedin.com/in/k%C3%BCbra-eser-612851169/) · Ankara, Türkiye
