@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kübra 👋
 
-<!--
-**KbraEser/KbraEser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer with an engineering background. I studied Energy Systems Engineering at Gazi University and worked for 3 years as an HVAC engineer before moving into software.
 
-Here are some ideas to get you started:
+## 🔭 Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Basat](https://github.com/KbraEser/basat)**: a multi-tenant energy monitoring and anomaly detection platform for businesses.
+Java 21 · Spring Boot · Spring Security (JWT, HttpOnly cookies, refresh token rotation) · PostgreSQL/TimescaleDB · Redis · Docker · Testcontainers · GitHub Actions
+
+## 🛠 Tech
+
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Redis, Flyway
+- **Frontend:** React, TypeScript, Redux Toolkit, TanStack Query, Tailwind CSS, Next.js
+- **Tools:** Docker, Git, GitHub Actions, JUnit, Mockito
+
+## 📫 Contact
+
+[LinkedIn]([https://www.linkedin.com/in/LINKEDIN-ADINI-YAZ](https://www.linkedin.com/in/k%C3%BCbra-eser-612851169/)) · Ankara, Türkiye
