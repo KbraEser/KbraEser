@@ -5,7 +5,7 @@ Full stack developer with an engineering background. I studied Energy Systems En
 ## 🔭 Currently building
 
 **[Basat](https://github.com/KbraEser/basat)**: a multi-tenant energy monitoring and anomaly detection platform for businesses.
-Java 21 · Spring Boot · Spring Security (JWT, HttpOnly cookies, refresh token rotation) · PostgreSQL/TimescaleDB · Redis · Docker · Testcontainers · GitHub Actions
+Java 21 · Spring Boot · Spring Security (JWT, HttpOnly cookies, refresh token rotation) · PostgreSQL/TimescaleDB · Redis · Docker · Testcontainers · GitHub Actions · Kafka
 
 ## 🛠 Tech
 
